@@ -149,8 +149,8 @@ Important:
 
 See:
 
-- [docs/benchmark_protocol.md](/Users/napolesd/Documents/New project/the_well_leaderboard_mvp/docs/benchmark_protocol.md)
-- [docs/submission_format.md](/Users/napolesd/Documents/New project/the_well_leaderboard_mvp/docs/submission_format.md)
+- [docs/benchmark_protocol.md](docs/benchmark_protocol.md)
+- [docs/submission_format.md](docs/submission_format.md)
 
 ## Current status
 
