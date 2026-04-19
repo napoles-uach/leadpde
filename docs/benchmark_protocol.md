@@ -49,7 +49,7 @@ Each submission is one `.zip` archive containing exactly:
 - `predictions.npz`
 
 See the dedicated format spec in
-[submission_format.md](/Users/napolesd/Documents/New project/the_well_leaderboard_mvp/docs/submission_format.md).
+[submission_format.md](docs/submission_format.md).
 
 ## 4. Evaluation procedure
 
